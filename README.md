@@ -7,8 +7,12 @@ A comprehensive data science project that transforms raw NASA POWER atmospheric 
 ---
 
 ## 📸 Final Dashboard Overview
-![Single View](../visualizations/figure 1(single view).png)
-![Regional Comparison](../visualizations/figure 2(comparative view).png)
+
+#### 1. Single Country View
+![Single View](visualizations/single_view.png)
+
+#### 2. Comparative Analysis
+![Comparative View](visualizations/comparative_view.png)
 
                *Figure 1: The "Single Country View" featuring the high-contrast Blue-White theme.*
                *Figure 2: The "regional comparison view" featuring the high-contrast Blue-White theme.*
@@ -25,7 +29,8 @@ This repository followed a structured development lifecycle, preserved in indivi
                 - **Process:** Cleaned raw meteorological data, handled missing values, and standardized date formats.
                 - **Output:** Individual country CSVs in `data/cleaned_data/`.
 
-![EDA Results](../visualizations/EDA.png)
+### 🔍 Exploratory Data Analysis (EDA)
+![EDA Results](visualizations/EDA.png)
 
 ### **Task 2: Regional Comparison & Data Merging**
                 - **Branch:** `task-2-merging`
@@ -41,8 +46,8 @@ This repository followed a structured development lifecycle, preserved in indivi
                 - **Scope:** Frontend engineering with Streamlit.
                 - **Process:** Implemented a full-black "Control Room" UI with Plotly visualizations.
 
-![Regional Comparison](../visualizations/figure 2 (comparative view).png)
-
+#### 🗺️ Regional Trends
+![Regional Comparison](visualizations/regional_comaparison.png)
 ---
 
 ## 📂 Repository Structure
@@ -86,22 +91,12 @@ This repository followed a structured development lifecycle, preserved in indivi
 
 
 ##🧑‍🔬 Author:
-         Sinen Dirirsa / computer science major at AAU
+
+         Sinen Dirirsa // Computer science major at AAU
+         
          10 Academy week-0 challenge
 
----
-## 📊 Project Visualizations
 
-### 🔍 Exploratory Data Analysis (EDA)
-![EDA Results](visualizations/EDA.png)
 
-### 📈 Dashboard Views
 
-#### 1. Single Country View
-![Single View](visualizations/single%20view.png)
 
-#### 2. Comparative Analysis
-![Comparative View](visualizations/comparative%20view.png)
-
-#### 🗺️ Regional Trends
-![Regional Comparison](visualizations/regional_comaparison.png)

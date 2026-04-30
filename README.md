@@ -65,8 +65,10 @@ This repository followed a structured development lifecycle, preserved in indivi
 
 
 
-##How to Run Locally
-              Clone & Enter:
+##How to Run Locally:
+
+
+              Clone:
 
               Bash
               git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
@@ -83,7 +85,7 @@ This repository followed a structured development lifecycle, preserved in indivi
                  streamlit run app/main.py
 
 
-🧑‍🔬 Author
+##🧑‍🔬 Author:
          Sinen Dirirsa / computer science major at AAU
          10 Academy week-0 challenge
 

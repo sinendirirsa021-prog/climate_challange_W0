@@ -90,3 +90,18 @@ This repository followed a structured development lifecycle, preserved in indivi
          10 Academy week-0 challenge
 
 ---
+## 📊 Project Visualizations
+
+### 🔍 Exploratory Data Analysis (EDA)
+![EDA Results](visualizations/EDA.png)
+
+### 📈 Dashboard Views
+
+#### 1. Single Country View
+![Single View](visualizations/single%20view.png)
+
+#### 2. Comparative Analysis
+![Comparative View](visualizations/comparative%20view.png)
+
+#### 🗺️ Regional Trends
+![Regional Comparison](visualizations/regional_comaparison.png)

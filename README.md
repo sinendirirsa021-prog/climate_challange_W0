@@ -7,8 +7,8 @@ A comprehensive data science project that transforms raw NASA POWER atmospheric 
 ---
 
 ## 📸 Final Dashboard Overview
-![Single View](../visualizations/figure1%28single%20view%29.png)
-![Regional Comparison](../visualizations/regional_comparison.png)
+![Single View](../visualizations/figure 1(single view).png)
+![Regional Comparison](../visualizations/figure 2(comparative view).png)
 
                *Figure 1: The "Single Country View" featuring the high-contrast Blue-White theme.*
                *Figure 2: The "regional comparison view" featuring the high-contrast Blue-White theme.*
@@ -33,7 +33,7 @@ This repository followed a structured development lifecycle, preserved in indivi
                 - **Process:** Performed cross-country comparisons of temperature and rainfall volatility using a master pivot-table approach.
                 - **Output:** `data/master_climate_data.csv`.
 
-![Comparative View](visualization/figure2%20%28Comparative%20view%29.png)
+![Comparative View](visualization/regional_comparison.png)
 
 
 ### **Task 3: Interactive Dashboard Development**
@@ -41,7 +41,7 @@ This repository followed a structured development lifecycle, preserved in indivi
                 - **Scope:** Frontend engineering with Streamlit.
                 - **Process:** Implemented a full-black "Control Room" UI with Plotly visualizations.
 
-![Regional Comparison](../visualizations/regional_comparison.png)
+![Regional Comparison](../visualizations/figure 2 (comparative view).png)
 
 ---
 
